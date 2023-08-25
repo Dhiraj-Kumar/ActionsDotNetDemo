@@ -1,0 +1,12 @@
+/workspaces/codespaces-blank/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.deps.json
+/workspaces/codespaces-blank/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.dll
+/workspaces/codespaces-blank/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.pdb
+/workspaces/codespaces-blank/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfo.cs
+/workspaces/codespaces-blank/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.dll
+/workspaces/codespaces-blank/CalculatorLibrary/obj/Debug/net7.0/refint/CalculatorLibrary.dll
+/workspaces/codespaces-blank/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.pdb
+/workspaces/codespaces-blank/CalculatorLibrary/obj/Debug/net7.0/ref/CalculatorLibrary.dll
