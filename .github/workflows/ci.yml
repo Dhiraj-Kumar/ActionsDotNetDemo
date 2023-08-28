@@ -41,3 +41,20 @@ jobs:
 
       - name: Test the Application
         run: dotnet test
+  publish:
+    needs: test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+      
+      - uses: mr-smithers-excellent/docker-build-push@v6
+        name: Build & push Docker image
+        with:
+          image: dhiraj2001/CalculatorApp
+          tags: latest
+          registry: docker.io
+          dockerfile: CalculatorLibrary/Dockerfile
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
