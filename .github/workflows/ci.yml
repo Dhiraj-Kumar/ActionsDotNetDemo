@@ -52,7 +52,7 @@ jobs:
       - uses: mr-smithers-excellent/docker-build-push@v6
         name: Build & push Docker image
         with:
-          image: dhiraj2001/CalculatorApp
+          image: dhiraj2001/calculatorapp
           tags: latest
           registry: docker.io
           dockerfile: CalculatorLibrary/Dockerfile
